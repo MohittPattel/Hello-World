@@ -3,7 +3,7 @@ def add(a, b):
 def suibtract(a, b):
     return a - b    #from remote repository 
 def multiply(a, b):
-    return a * b 
+    pass
 def divide(a, b):
     if b == 0:
         return Divide_By_0
